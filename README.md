@@ -22,15 +22,15 @@ Secure login and registration form created in HTML, CSS and JS hosted through Mi
 **Available for on every browser based device.**
 
 <p align="center">
-  <img src = "ReadMeImages/image1" width=350>
+  <img src = "/ReadMeImages/image1.png" width=350>
 </p>
 
 <p align="center">
-  <img src = "ReadMeImages/image2" width=700>
+  <img src = "/ReadMeImages/image2.png" width=700>
 </p>
 
 <p align="center">
-  <img src = "ReadMeImages/image3" width=700>
+  <img src = "/ReadMeImages/image3.png" width=700>
 </p>
 
 ## Feedback
